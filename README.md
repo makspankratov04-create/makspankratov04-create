@@ -25,7 +25,6 @@
 | :--- | :--- |
 | **ML / DL** | PyTorch, PyTorch Geometric, Scikit-learn, XGBoost, SHAP |
 | **Химия / Chemoinformatics** | RDKit, Morgan Fingerprints, Scaffold Split, молекулярные дескрипторы |
-| **Генеративные модели** | VAE, Conditional VAE, LSTM-энкодеры и декодеры |
 | **Данные и визуализация** | Pandas, NumPy, Matplotlib, Seaborn |
 | **Инструменты** | Git, GitHub, VS Code, PyCharm |
 
