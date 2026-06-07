@@ -25,7 +25,7 @@ Looking for an internship or a Junior ML Engineer / Data Scientist position. Ope
 | **ML / DL** | PyTorch, PyTorch Geometric, Scikit-learn, XGBoost, SHAP |
 | **Chemistry / Cheminformatics** | RDKit, Morgan Fingerprints, Scaffold Split, molecular descriptors |
 | **Data & viz** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Databases & API** | PostgreSQL, SQL, Flask, Express.js, REST API, Docker (basic) |
+| **Databases & API** | PostgreSQL, SQL, Flask, REST API, Docker (basic) |
 | **Tools** | Git, GitHub, VS Code, PyCharm, pgAdmin |
 
 ---
