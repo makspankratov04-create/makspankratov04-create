@@ -46,7 +46,7 @@ Looking for an internship or a Junior ML Engineer / Data Scientist position. Ope
 - [Repository](https://github.com/makspankratov04-create/gnn-solubility-prediction)
 
 #### 3. REST API for database management (learning project)
-- **Stack:** Flask + PostgreSQL (Python version) / Express + pg (Node.js version)
+- **Stack:** Flask + PostgreSQL (Python version)
 - **Endpoints:** get all records, add new, delete by ID
 - **Testing:** Thunder Client, x-www-form-urlencoded format
 - **Deployment:** basic Docker (ready for cloud deployment)
