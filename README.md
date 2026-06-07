@@ -1,63 +1,70 @@
-# 👨‍🔬 Максим Панкратов — Химик & Chemoinformatics & Machine Learnin
+# 👨‍🔬 Maxim Pankratov — Chemist & Junior ML Engineer
 
-**Студент старших курсов ТулГУ, кафедра химии**  
-**21 год | Тула, Россия**
+**Chemistry student at Tula State University**  
+**21 y.o. | Tula, Russia**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/твой-ник)
-[![Email](https://img.shields.io/badge/Email-написать-red)](mailto:твой_email@gmail.com)
-
----
-
-### 🧠 Обо мне
-
-Я студент-химик, который освоил машинное обучение и глубокое обучение для задач
-**drug discovery** и **cheminformatics**. Умею работать с химическими данными (RDKit, SMILES, Scaffold Split),
-строить модели классического ML (XGBoost, RandomForest) и графовые нейросети (GCN, GAT).
-
-Ищу стажировку или позицию Junior ML Engineer / Data Scientist.  
-Открыт к удалённой работе и проектной занятости.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/your-nick)
+[![Email](https://img.shields.io/badge/Email-contact-red)](mailto:maks.pankratov04@inbox.ru)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/makspankratov04-create)
 
 ---
 
-### 🛠️ Технические навыки
+### 🧠 About Me
 
-| Категория | Инструменты |
+I am a chemistry student who systematically learns machine learning, deep learning and data engineering for **drug discovery** and **cheminformatics** tasks.  
+I can handle chemical data (RDKit, SMILES, Scaffold Split), build classical ML models (XGBoost, RandomForest), graph neural networks (GCN, GAT), as well as develop REST APIs and work with PostgreSQL.
+
+Looking for an internship or a Junior ML Engineer / Data Scientist position. Open to remote work and project‑based cooperation.
+
+---
+
+### 🛠️ Technical Skills
+
+| Category | Tools |
 | :--- | :--- |
 | **ML / DL** | PyTorch, PyTorch Geometric, Scikit-learn, XGBoost, SHAP |
-| **Химия / Chemoinformatics** | RDKit, Morgan Fingerprints, Scaffold Split, молекулярные дескрипторы |
-| **Данные и визуализация** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Инструменты** | Git, GitHub, VS Code, PyCharm |
+| **Chemistry / Cheminformatics** | RDKit, Morgan Fingerprints, Scaffold Split, molecular descriptors |
+| **Data & viz** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Databases & API** | PostgreSQL, SQL, Flask, Express.js, REST API, Docker (basic) |
+| **Tools** | Git, GitHub, VS Code, PyCharm, pgAdmin |
 
 ---
 
-### 📂 Проекты в портфолио
+### 📂 Portfolio Projects
 
-#### 1. Предсказание растворимости (ESOL) — классический ML
-- **Методы:** XGBoost, RandomForest, Ridge
-- **Валидация:** Scaffold Split (честное химическое разделение)
-- **Подбор гиперпараметров:** GridSearchCV
-- **Интерпретация:** SHAP-анализ, важность признаков
-- [Репозиторий на GitHub](https://github.com/makspankratov04-create/ESOL_GNN_benchmark)
+#### 1. Solubility prediction (ESOL) — classical ML
+- **Methods:** XGBoost, RandomForest, Ridge
+- **Validation:** Scaffold Split (fair chemical split)
+- **Hyperparameter tuning:** GridSearchCV
+- **Interpretation:** SHAP analysis, feature importance
+- [Repository](https://github.com/makspankratov04-create/ESOL_GNN_benchmark)
 
-#### 2. Графовые нейросети для предсказания растворимости (ESOL)
-- **Архитектуры:** GCN, GAT, GAT+Edge
-- **Модульная структура:** config, data, models, train, predict
-- **Сохранение модели и инференс на новых SMILES**
-- [Репозиторий на GitHub](https://github.com/makspankratov04-create/gnn-solubility-prediction)
+#### 2. Graph neural networks for solubility prediction (ESOL)
+- **Architectures:** GCN, GAT, GAT+Edge
+- **Modular structure:** config, data, models, train, predict
+- **Model saving and inference on new SMILES**
+- [Repository](https://github.com/makspankratov04-create/gnn-solubility-prediction)
+
+#### 3. REST API for database management (learning project)
+- **Stack:** Flask + PostgreSQL (Python version) / Express + pg (Node.js version)
+- **Endpoints:** get all records, add new, delete by ID
+- **Testing:** Thunder Client, x-www-form-urlencoded format
+- **Deployment:** basic Docker (ready for cloud deployment)
+- [Repository](https://github.com/makspankratov04-create/flask-posts-api) (insert your actual link)
 
 ---
 
-### 🎓 Образование
+### 🎓 Education
 
-**Тульский государственный университет (ТулГУ)**  
-Кафедра химии, 3 курс (2023–2027)
+**Tula State University (TulSU)**  
+Department of Chemistry, 3rd year (2023–2027)
 
 ---
 
-### 📞 Контакты
+### 📞 Contact
 
 - **Email:** maks.pankratov04@inbox.ru
-- **LinkedIn:** [ссылка на профиль](ссылка_на_твой_linkedin)
-- **GitHub:** [ссылка на профиль](https://github.com/makspankratov04-create)# 👨‍🔬 Максим Панкратов — Химик & Junior ML Engineer
+- **LinkedIn:** (add link)
+- **GitHub:** [makspankratov04-create](https://github.com/makspankratov04-create)
 
 
